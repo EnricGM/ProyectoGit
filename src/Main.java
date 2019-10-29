@@ -5,6 +5,6 @@ public class Main {
 	}
 	
 	public static void printHola(){
-	System.out.println("Hola món!");
+	System.out.println("Hola mon!");
 	}
 }
